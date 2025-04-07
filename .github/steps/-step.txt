@@ -1,1 +1,6 @@
-1
+# MITCHELLE IS LEARNING MARKDOWN
+## SHE IS USING GITHUB EDUCATION
+### SHE IS ENJOYING LEARNING SO FAR
+#### OKAY?
+
+I added some statements to try out following the steps in learning markdown
