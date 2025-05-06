@@ -11,3 +11,10 @@ git commit -m "Updated  headers"
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 git commit -m "Updated  image"
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+git commit -m "Updated  code"
+
