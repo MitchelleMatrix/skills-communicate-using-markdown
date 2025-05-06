@@ -18,3 +18,10 @@ var myVar = "Hello, world!";
 
 git commit -m "Updated  code"
 
+## My Task List
+
+- [ ] Turn on GitHub Pages  
+- [ ] Outline my portfolio  
+- [ ] Introduce myself to the world
+
+git commit -m "Added my task list"
